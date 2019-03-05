@@ -1,9 +1,4 @@
 ﻿using System;
-
-
-
-
-
 namespace desafio2
 {
     class Program
@@ -19,7 +14,7 @@ namespace desafio2
             double a = p * Math.Pow(
                 r, 2);
 
-            Console.Write("A=" + a.ToString("0.0000"));
+            Console.Write("A=" + a.ToString("0  .0000"));
 
 
 
